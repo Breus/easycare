@@ -1,0 +1,177 @@
+/*.banner {
+    width: 100%;
+    float: left;
+    position: relative;
+    height: 250px;
+    background-size: contain;
+    background: url('./images/banner3.jpg');
+}*/
+
+
+.home.blog .site-header, .home.page:not(.page-template-template-homepage) .site-header, .home.post-type-archive-product .site-header {
+    margin-bottom: 0px !important; }
+
+#main-custom {
+    width: 100% !important;
+    min-height: 300px;
+}
+
+.site-header-cart .widget_shopping_cart, .site-header .product_list_widget li .quantity {
+    color: #FFF !important;    
+}
+
+.widget_shopping_cart .buttons .button:nth-child(odd) {
+    width: 100% !important;
+}
+
+p.buttons {
+    width: 100% !important;
+}
+
+.empty {
+    color: #FFF;
+    font-family: 'Amaranth', sans-serif !important;
+}
+
+.main-navigation ul li, .secondary-navigation ul li {
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+p.site-description, ul.menu li.current-menu-item > a, .site-header {
+    color: #FFF !important;
+}
+.site-title {
+   font-family: 'Amaranth', sans-serif !important;
+   font-size: 55px !important;
+}
+
+.main-navigation ul li a:hover, .main-navigation ul li:hover > a, .site-title a:hover, a.cart-contents:hover, .site-header-cart .widget_shopping_cart a:hover, .site-header-cart:hover > li > a {
+  color: #951B1B !important;
+}
+
+.onzekenmerken {
+    width: 100%;
+    height: 470px;
+}
+
+.page-titel {
+    font-size: 20px !important;
+    color: #005684;
+    text-align: center;
+    margin-top: 45px;
+    width: 80%;
+    margin-left: 10%;
+    border-bottom: 1px solid rgba(69, 126, 166, 0.5);
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 36px !important;
+}
+
+.garantie {
+    width: 25%;
+    position: relative;
+    float: left;
+    min-height: 150px;
+    padding: 14px;
+}
+
+.garantie-img {
+    width: 100%;
+    height: 160px;
+}
+
+.garantie-img img {
+    width: 100%;
+    height: 160px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+}
+
+.garantie-titel {
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif !important;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.garantie-tekst {
+    text-align: center;
+    font-size: 14px;
+}
+
+.bestel-direct1 {
+    width: 100%;
+    margin-top: 10px;
+    height: 50px;
+    
+}
+.bestel-direct1 button {
+    text-align: center;
+    margin-top: 30px;
+    webkit-border-radius: 8px;
+    float: left;
+    margin-left: 415px;
+    border-radius: 8px;
+}
+
+.sequence {
+    width: 100%;
+    position: relative;
+    float: left;
+    height: 420px;
+    margin-top: 30px;
+}
+
+.sequence_item {
+    background-color: #60646C;
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    float: left;
+    position: relative;
+    margin-right:50px;
+}
+
+.sequence_inner {
+    border-radius: 50%;
+    width: 160px;
+    position: relative;
+    float: left;
+    height: 160px;
+    margin: 10px 0px 0px 10px;
+}
+
+#sequence_item1 {
+    margin-left: 50px;
+}
+
+#sequence_item2 {
+    
+}
+#sequence_item3 {
+    
+}
+#sequence_item4 {
+    margin-right:0px !important;
+}
+
+.sequence_titles {
+    float: left;
+    position: relative;
+    width: 100%;
+    height: 90px;
+}
+.sequence_title {
+    float: left;
+    position: relative;
+    font-size: 18px;
+    width: 200px;
+    
+}
